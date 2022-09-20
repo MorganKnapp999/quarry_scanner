@@ -1,0 +1,60 @@
+/* CSS style sheet */
+body {
+    background-color: lightgrey;
+    padding: 0px;
+}
+
+.header {
+    background-color: darkgray;
+    margin-top: 0px;
+    padding: 1em;
+    text-align: center;
+
+}
+
+.header img{
+    max-width: 100px;
+}
+
+.dropdown {
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+#document option{
+    color: red;
+    border: 10px solid;
+    border-color: black;
+}
+
+#document {
+    border: 2px solid;
+    border-color: green;
+}
+
+.insert {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 1em;
+}
+
+
+.art img {
+    max-width: 250px;
+    padding-left: 1em;
+}
+
+.scan_button {
+    padding: 2em;
+    background-color: beige;
+    width: 100vw;
+}
+
+.scan_button button{
+    width: 200px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    
+}
